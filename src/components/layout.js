@@ -25,9 +25,19 @@ const Layout = ({ location, title, children }) => {
       <header className="global-header">{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.com">Gatsby</a>
+        <p>
+          © {new Date().getFullYear()}, Built with
+          {` `}
+          <a href="https://www.gatsbyjs.com">Gatsby</a>
+        </p>
+        <p>
+          <a
+            href="https://www.flaticon.com/free-icons/festival"
+            title="festival icons"
+          >
+            Festival icons created by wanicon - Flaticon
+          </a>
+        </p>
       </footer>
     </div>
   )
