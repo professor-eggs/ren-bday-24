@@ -4,7 +4,7 @@ date: "2024-11-23"
 description: A caramelized banana dessert with warm spices and rum cream, perfect for a Caribbean-inspired celebration.
 ---
 
-For Renee's birthday party, we are making **Banana Tarte Tatin with Spiced Rum Cream** from _Ainsley's Caribbean Kitchen_.
+For Renée's birthday party, we are making **Banana Tarte Tatin with Spiced Rum Cream** from _Ainsley's Caribbean Kitchen_.
 
 The rum cream will be on the side for kiddies and non-drinkers :).
 

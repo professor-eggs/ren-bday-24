@@ -9,14 +9,14 @@
  */
 module.exports = {
   siteMetadata: {
-    title: "Renee's Cookbook Party",
+    title: "Renée's Cookbook Party",
     author: {
       name: `Xavier Lloyd`,
     },
-    description: `A cookbook party invitation for Renee's birthday celebration.`,
+    description: `A cookbook party invitation for Renée's birthday celebration.`,
     siteUrl: "https://ren.xavr.dev",
     birthday: {
-      host: "Renee",
+      host: "Renée",
       theme: "Cookbook Party",
       cookbook: "Ainsley's Caribbean Kitchen",
       date: "December 8, 2024",

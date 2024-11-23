@@ -1,5 +1,5 @@
 /**
- * Renee's Birthday Party Invitation
+ * Renée's Birthday Party Invitation
  * Adapted from Gatsby's useStaticQuery Bio component
  */
 

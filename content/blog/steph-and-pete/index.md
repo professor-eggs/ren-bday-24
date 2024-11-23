@@ -4,7 +4,7 @@ date: "2024-11-23"
 description: A tropical and savory main course featuring tender spatchcock chicken with a sweet, tangy papaya glaze.
 ---
 
-For Renee's birthday party, **Steph and Pete** are bringing the heat with **Spiced Spatchcock Chicken with Papaya Glaze** from _Ainsley's Caribbean Kitchen_.
+For Renée's birthday party, **Steph and Pete** are bringing the heat with **Spiced Spatchcock Chicken with Papaya Glaze** from _Ainsley's Caribbean Kitchen_.
 
 This dish combines the smoky, crispy flavors of barbecued spatchcock chicken with the sweetness of papaya and a hint of spice, making it a showstopping main course for the party.
 
