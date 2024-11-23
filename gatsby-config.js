@@ -9,17 +9,22 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: "Renee's Cookbook Party",
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Xavier Lloyd`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
+    description: `A cookbook party invitation for Renee's birthday celebration.`,
+    siteUrl: "https://ren.xavr.dev",
+    birthday: {
+      host: "Renee",
+      theme: "Cookbook Party",
+      cookbook: "Ainsley's Caribbean Kitchen",
+      date: "December 8, 2024",
+      time: "6:00 PM",
+      location: "Granda Lloyds",
     },
   },
+
   plugins: [
     `gatsby-plugin-image`,
     {
