@@ -21,7 +21,7 @@ module.exports = {
       cookbook: "Ainsley's Caribbean Kitchen",
       date: "December 8, 2024",
       time: "6:00 PM",
-      location: "Granda Lloyds",
+      location: "Home of the Granada Lloyds",
     },
   },
 

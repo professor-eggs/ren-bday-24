@@ -6,8 +6,10 @@
 import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
+import { Link } from "gatsby"
 
-const Intro = () => {
+const Intro = ({ showTOC = true }) => {
+  console.log("🚀 ~ file: intro.js:12 ~ Intro ~ showTOC:", showTOC)
   const data = useStaticQuery(graphql`
     query PartyQuery {
       site {
@@ -22,24 +24,24 @@ const Intro = () => {
           }
         }
       }
+      allMarkdownRemark(sort: { frontmatter: { title: ASC } }) {
+        nodes {
+          frontmatter {
+            title
+          }
+          fields {
+            slug
+          }
+        }
+      }
     }
   `)
 
-  // Set these values by editing "birthday" in gatsby-config.js
   const birthday = data.site.siteMetadata?.birthday
+  const posts = data.allMarkdownRemark.nodes
 
   return (
     <div className="birthday-party">
-      <StaticImage
-        className="party-avatar"
-        layout="fixed"
-        formats={["auto", "webp", "avif"]}
-        src="../images/party-logo.png"
-        width={50}
-        height={50}
-        quality={95}
-        alt="Party logo"
-      />
       {birthday?.host && (
         <div>
           <h1>You're Invited!</h1>
@@ -60,6 +62,20 @@ const Intro = () => {
             Caribbean feast together!
           </p>
           <p>We can't wait to see you there!</p>
+        </div>
+      )}
+
+      {/* Render TOC only if showTOC is true */}
+      {showTOC && (
+        <div className="toc">
+          <h2>Table of Contents</h2>
+          <ul>
+            {posts.map(post => (
+              <li key={post.fields.slug}>
+                <Link to={post.fields.slug}>{post.frontmatter.title}</Link>
+              </li>
+            ))}
+          </ul>
         </div>
       )}
     </div>
