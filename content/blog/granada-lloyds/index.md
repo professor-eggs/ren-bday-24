@@ -10,7 +10,7 @@ The rum cream will be on the side for kiddies and non-drinkers :).
 
 This dessert is a tropical twist on a French classic, featuring caramelized bananas nestled in a rich, spiced sauce and baked with flaky puff pastry. It’s served with a dollop of decadent spiced rum cream for a truly indulgent finish.
 
-![Banana Tarte Tatin with Spiced Rum Cream](./banana.jpg)
+![Banana Tarte Tatin with Spiced Rum Cream](./banana2.jpg)
 
 ### What to Expect
 
