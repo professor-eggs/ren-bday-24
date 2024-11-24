@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "ren-bday-24",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "description": "A gatsby blog for Renee's birthday in 2024",
+  "version": "1.0.0",
+  "author": "Xavier Lloyd",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/professor-eggs/ren-bday-24/issues"
   },
   "dependencies": {
     "@fontsource-variable/montserrat": "^5.0.17",
