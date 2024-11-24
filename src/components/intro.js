@@ -9,7 +9,6 @@ import { Link } from "gatsby"
 import ReactPlayer from "react-player"
 
 const Intro = ({ showTOC = true }) => {
-  console.log("🚀 ~ file: intro.js:12 ~ Intro ~ showTOC:", showTOC)
   const data = useStaticQuery(graphql`
     query PartyQuery {
       site {
