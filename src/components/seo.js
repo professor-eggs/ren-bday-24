@@ -15,6 +15,7 @@ const Seo = ({ description, title, children }) => {
         site {
           siteMetadata {
             title
+            siteUrl
             description
             social {
               twitter
@@ -34,9 +35,10 @@ const Seo = ({ description, title, children }) => {
       <meta name="description" content={metaDescription} />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={metaDescription} />
+      <meta property="og:url" content={site.siteUrl} />
       <meta
         property="og:image"
-        content="../images/Renees_Birthday_Party_Logo.jpg"
+        content={site.siteUrl + "/images/Renees_Birthday_Party_Logo.jpg"}
       />
       <meta property="og:image:width" content="400" />
       <meta property="og:image:height" content="400" />
