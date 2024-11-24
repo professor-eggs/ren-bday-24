@@ -5,8 +5,8 @@
 
 import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
-import { StaticImage } from "gatsby-plugin-image"
 import { Link } from "gatsby"
+import ReactPlayer from "react-player"
 
 const Intro = ({ showTOC = true }) => {
   console.log("🚀 ~ file: intro.js:12 ~ Intro ~ showTOC:", showTOC)
@@ -62,6 +62,20 @@ const Intro = ({ showTOC = true }) => {
             Caribbean feast together!
           </p>
           <p>We can't wait to see you there!</p>
+        </div>
+      )}
+
+      {/* Embed a video */}
+      {showTOC && (
+        <div className="intro-video">
+          <h2>Watch the Invitation Video</h2>
+          <ReactPlayer
+            url="/videos/party-intro.mp4"
+            width="100%"
+            height="100%"
+            controls
+            style={{ maxWidth: "300px", margin: "0 auto" }}
+          />
         </div>
       )}
 

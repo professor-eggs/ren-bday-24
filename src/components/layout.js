@@ -30,14 +30,9 @@ const Layout = ({ location, title, children }) => {
           {` `}
           <a href="https://www.gatsbyjs.com">Gatsby</a>
         </p>
-        <p>
-          <a
-            href="https://www.flaticon.com/free-icons/festival"
-            title="festival icons"
-          >
-            Festival icons created by wanicon - Flaticon
-          </a>
-        </p>
+        <a href="https://www.flaticon.com/free-icons/party" title="party icons">
+          Party icons created by Smashicons - Flaticon
+        </a>
       </footer>
     </div>
   )
