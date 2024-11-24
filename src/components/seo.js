@@ -38,6 +38,8 @@ const Seo = ({ description, title, children }) => {
         property="og:image"
         content="../images/Renees_Birthday_Party_Logo.jpg"
       />
+      <meta property="og:image:width" content="400" />
+      <meta property="og:image:height" content="400" />
 
       <meta property="og:type" content="website" />
       <meta name="twitter:card" content="summary" />
