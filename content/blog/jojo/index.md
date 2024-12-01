@@ -1,6 +1,6 @@
 ---
 title: JoJo - Dutchie Pot Peanut Butter Chicken Stew
-date: "2024-11-23"
+date: "2024-12-01"
 description: A rich and comforting one-pot chicken stew with peanut butter and Caribbean spices.
 ---
 
