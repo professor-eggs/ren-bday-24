@@ -8,7 +8,7 @@ For Renee's birthday party, **Gisele** is preparing a comforting and flavorful d
 
 This creamy soup highlights the natural sweetness of roasted sweet potatoes, balanced by coconut milk and a hint of spice from curry powder. It's topped with toasted coconut shards and fresh coriander for added texture and flavor.
 
-![Roasted Sweet Potato & Coconut Soup](./roasted-sweet-potato-soup.jpg)
+![Roasted Sweet Potato & Coconut Soup](./IMG-20241201-WA0006.jpg)
 
 ### What to Expect
 
