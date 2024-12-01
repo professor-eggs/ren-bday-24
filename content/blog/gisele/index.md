@@ -1,6 +1,6 @@
 ---
 title: Gisele - Roasted Sweet Potato & Coconut Soup
-date: "2024-11-23"
+date: "2024-12-01"
 description: A creamy, sweet, and slightly spiced roasted sweet potato and coconut soup that’s perfect for any celebration.
 ---
 
