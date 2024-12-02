@@ -1,5 +1,5 @@
 ---
-title: Granada Lloyds - Banana Tarte Tatin with Spiced Rum Cream
+title: Ren and Xave - Banana Tarte Tatin with Spiced Rum Cream
 date: "2024-11-23"
 description: A caramelized banana dessert with warm spices and rum cream, perfect for a Caribbean-inspired celebration.
 ---

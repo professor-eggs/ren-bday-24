@@ -1,10 +1,10 @@
 ---
-title: Nana and Grandpa - Caribbean Fish Curry with Spinach & Coconut
+title: Nancy and Cuthbert - Caribbean Fish Curry with Spinach & Coconut
 date: "2024-11-23"
 description: A vibrant, one-pot Caribbean fish curry with creamy coconut, fresh spinach, and aromatic spices.
 ---
 
-For Renée's birthday party, **Nana (Nancy) and Grandpa** are bringing the warmth of the Caribbean to the table with **Caribbean Fish Curry with Spinach & Coconut** from _Ainsley's Caribbean Kitchen_.
+For Renée's birthday party, **Nancy and Cuthbert** are bringing the warmth of the Caribbean to the table with **Caribbean Fish Curry with Spinach & Coconut** from _Ainsley's Caribbean Kitchen_.
 
 This one-pot wonder combines tender white fish, creamy coconut milk, fresh spinach, and a medley of spices for a comforting yet flavorful dish that’s perfect for a festive gathering.
 
